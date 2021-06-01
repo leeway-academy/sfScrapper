@@ -1,0 +1,17 @@
+{
+  "name": "leeway-academy/sfscrapper",
+  "description": "A CLI application to scrap emails from a website. Used in the comparisson between Symfony and Laravel",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0-only",
+  "authors": [
+    {
+      "name": "Mauro Chojrin",
+      "email": "mauro.chojrin@leewayweb.com"
+    }
+  ],
+  "require": {
+    "symfony/console": "^5.3.0",
+    "symfony/dom-crawler": "^5.3",
+    "symfony/css-selector": "^5.3"
+  }
+}
